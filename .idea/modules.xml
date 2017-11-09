@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientDeezer.iml" filepath="$PROJECT_DIR$/ClientDeezer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pruebadeezerautomatization.iml" filepath="$PROJECT_DIR$/pruebadeezerautomatization.iml" />
+    </modules>
+  </component>
+</project>

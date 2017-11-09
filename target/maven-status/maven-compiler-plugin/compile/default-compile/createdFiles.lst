@@ -1,0 +1,7 @@
+deezer/model/AlbumModel.class
+deezer/model/TrackListModel.class
+deezer/service/TrackService.class
+deezer/rest/TrackRest.class
+deezer/model/ArtistModel.class
+deezer/model/TrackModel.class
+deezer/rest/ApiConnection.class
